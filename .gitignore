@@ -1,0 +1,13 @@
+## VIM (Vi IMproved) ##
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+## IntelliJ IDEA ##
+.idea/
+*.iml
+
+## Generic Java ##
+*.class
+*.jar
+hs_err_pid*
+target/
